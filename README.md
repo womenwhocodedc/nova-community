@@ -1,5 +1,9 @@
 # Women Who Code DC: NoVa Edition
 
+## Who We Are
+
+We are a section of WWCode DC that meets in Northern Virginia. What we mean by that is generally western Fairfax/eastern Loudoun counties, for people who live and/or work a little far from DC to want to go in for events. If your company might be interested in hosting one of our events, please contact the DC directors [via email](mailto:dc@womenwhocode.com) and one of us will make sure you get in touch with our partnerships folks.
+
 ## Call for Speakers!
 
 Did you know only [25% of speakers](https://startupsventurecapital.com/new-data-shows-only-25-of-speakers-at-tech-events-are-women-bd0578f28037) at tech events in the US are women? One way we can help change that stat is by developing our public speaking muscles in a safe, supportive environment like Women Who Code! If you have an idea for a talk, please reach out to us!

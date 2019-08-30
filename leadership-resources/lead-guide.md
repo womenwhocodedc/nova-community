@@ -1,6 +1,8 @@
-# Event Creation
+# NoVa Lead Guide
 
-This guide is intended to help you create events for the Northern Virginia section of Women Who Code DC. We have many leadership resources in the [main organization repo](https://github.com/womenwhocodedc/organization/tree/master/leadership-resources), which are at varying stages of up to date, but there are some twists to event creation in NoVa.
+This guide is intended to help you create events for the Northern Virginia section of Women Who Code DC. Most of the leadership documents live in the main WWCDC [organization repo](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources). We're currently in the process of reorganizing it, but if you start with the README you'll be linked to the rest of the documents.
+
+However, there are some twists to event creation in NoVa. This guide should help with that, but questions are always encouraged.
 
 ## So You Want to Create a Meetup Event?
 
